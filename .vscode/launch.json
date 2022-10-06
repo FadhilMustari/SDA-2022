@@ -1,0 +1,77 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab0",
+            "request": "launch",
+            "mainClass": "Lab0",
+            "projectName": "SDA 2022_3282db5e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab1",
+            "request": "launch",
+            "mainClass": "Lab1",
+            "projectName": "SDA 2022_3282db5e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab2",
+            "request": "launch",
+            "mainClass": "Lab2",
+            "projectName": "SDA 2022_3282db5e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab3",
+            "request": "launch",
+            "mainClass": "Lab3",
+            "projectName": "SDA 2022_3282db5e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab2ET",
+            "request": "launch",
+            "mainClass": "Other.Lab2ET",
+            "projectName": "SDA 2022_3282db5e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab3ET",
+            "request": "launch",
+            "mainClass": "Other.Lab3ET",
+            "projectName": "SDA 2022_3282db5e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab3Test",
+            "request": "launch",
+            "mainClass": "Other.Lab3Test",
+            "projectName": "SDA 2022_3282db5e"
+        },
+        {
+            "type": "java",
+            "name": "Launch other",
+            "request": "launch",
+            "mainClass": "Other.other",
+            "projectName": "SDA 2022_3282db5e"
+        },
+        {
+            "type": "java",
+            "name": "Launch TP1",
+            "request": "launch",
+            "mainClass": "TP1",
+            "projectName": "SDA 2022_3282db5e"
+        }
+    ]
+}
